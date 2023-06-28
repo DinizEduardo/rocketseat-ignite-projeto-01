@@ -19,3 +19,5 @@
 
 # Arquivos temporários
 /tmp
+
+/db/app.db
