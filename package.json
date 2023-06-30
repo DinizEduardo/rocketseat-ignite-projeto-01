@@ -13,6 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.3.2",
+    "@types/supertest": "^2.0.12",
+    "supertest": "^6.3.3",
     "tsx": "^3.12.7",
     "typescript": "^5.1.5",
     "vitest": "^0.32.2"
